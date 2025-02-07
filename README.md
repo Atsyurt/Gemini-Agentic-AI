@@ -7,7 +7,7 @@ Agentic AI Chatbot with Multi-Step Reasoning and Dynamic Research
 ***https://llm-api-app-llm-gemini-agentic-ai-dvfbgefrcug5aghq.canadacentral-01.azurewebsites.net/***
 
 # High Overview of solution
-![Alt text](imgS/gemini-agentic-ai-solution-v1.png)
+![Alt text](imgs/gemini-agentic-ai-solution-v1.png)
 ## 1-)Brief summary about solution
 
 * In my solution, as seen in the diagram, I used two LLM models from Google: Gemini Flash and Gemini Flash 8B. 
